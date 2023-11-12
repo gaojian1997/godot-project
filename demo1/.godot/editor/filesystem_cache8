@@ -1,9 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1698075770
+::res://::1698332956
 icon.svg::CompressedTexture2D::6592252648967057970::1697852747::1697852754::1::::<><>::
-Mob.tscn::PackedScene::4256848359115713273::1698075694::0::1::::<><>::uid://cbn7dbcqfnie0::::res://art/enemyFlyingAlt_1.png<>uid://bowhr0daiw5qf::::res://art/enemyFlyingAlt_2.png<>uid://d1am2mujix0em::::res://art/enemySwimming_1.png<>uid://bdwwjqo4iexv2::::res://art/enemySwimming_2.png<>uid://c4xrjs7ny0k74::::res://art/enemyWalking_1.png<>uid://blylpkegla5du::::res://art/enemyWalking_2.png
-Player.gd::GDScript::-1::1698075694::0::1::::<>Area2D<>::
-Player.tscn::PackedScene::1079188043177948853::1697901468::0::1::::<><>::res://Player.gd<>uid://c60d53qa0pq6k
+main.gd::GDScript::-1::1698077876::0::1::::<>Node<>::
+main.tscn::PackedScene::6139827202670402311::1698078897::0::1::::<><>::res://main.gd<>uid://pm1cmhxpc654::::res://Player.tscn<>uid://b1wbw2e7quhjl::::res://Mob.tscn
+Mob.gd::GDScript::-1::1698076761::0::1::::<>RigidBody2D<>::
+Mob.tscn::PackedScene::4256848359115713273::1698076780::0::1::::<><>::uid://cbn7dbcqfnie0::::res://art/enemyFlyingAlt_1.png<>res://Mob.gd<>uid://bowhr0daiw5qf::::res://art/enemyFlyingAlt_2.png<>uid://d1am2mujix0em::::res://art/enemySwimming_1.png<>uid://bdwwjqo4iexv2::::res://art/enemySwimming_2.png<>uid://c4xrjs7ny0k74::::res://art/enemyWalking_1.png<>uid://blylpkegla5du::::res://art/enemyWalking_2.png
+Player.gd::GDScript::-1::1698075921::0::1::::<>Area2D<>::
+Player.tscn::PackedScene::1079188043177948853::1698076780::0::1::::<><>::res://Player.gd<>uid://c60d53qa0pq6k::::res://art/playerGrey_up1.png<>uid://baoimnq3hgv2m::::res://art/playerGrey_up2.png<>uid://bfv8mbvq3ncvb::::res://art/playerGrey_walk1.png<>uid://dy5hkqk5m686p::::res://art/playerGrey_walk2.png
 README.md::TextFile::-1::1695643442::0::1::::<><>::
 ::res://art/::1697852928
 enemyFlyingAlt_1.png::CompressedTexture2D::4871815479324380921::1695643442::1697852928::1::::<><>::
