@@ -1,7 +1,0 @@
-ea4bc82a6ad023ab7ee23ee620429895
-::res://::1699189262
-export_presets.cfg::TextFile::-1::1698423895::0::1::::<><>::
-icon.svg::CompressedTexture2D::9095193089916629371::1698416047::1698416056::1::::<><>::
-main.tscn::PackedScene::9117077091782602206::1699178697::0::1::::<><>::uid://dacgiwdoaq6wr::::res://node_2d.tscn
-node_2d.tscn::PackedScene::7163770555680138489::1698419352::0::1::::<><>::uid://d2t1rbtyhon2r
-Sprite2D.gd::GDScript::-1::1699180057::0::1::::<>Sprite2D<>::
